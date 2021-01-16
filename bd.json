@@ -1,0 +1,84 @@
+{
+  "workers": [
+    {
+      "name": "Суровицкий",
+      "surname": "Михаил",
+      "patronymic": "Дмитриевич",
+      "phone_number": "+8 (800) 555-35-55",
+      "email": "sur@gmail.com",
+      "birthdate": "1988-03-12",
+      "workplace": 0,
+      "id": 1
+    },
+    {
+      "name": "Суровицкий",
+      "surname": "Михаил",
+      "patronymic": "Дмитриевич",
+      "phone_number": "+8 (800) 555-35-55",
+      "email": "sur@gmail.com",
+      "birthdate": "1988-03-12",
+      "workplace": 0,
+      "id": 2
+    },
+    {
+      "name": "Суровицкий",
+      "surname": "Михаил",
+      "patronymic": "Дмитриевич",
+      "phone_number": "+8 (800) 555-35-55",
+      "email": "sur@gmail.com",
+      "birthdate": "1988-03-12",
+      "workplace": 0,
+      "id": 3
+    },
+    {
+      "name": "Суровицкий",
+      "surname": "Михаил",
+      "patronymic": "Дмитриевич",
+      "phone_number": "+8 (800) 555-35-55",
+      "email": "sur@gmail.com",
+      "birthdate": "1988-03-12",
+      "workplace": 0,
+      "id": 4
+    },
+    {
+      "name": "Суровицкий",
+      "surname": "Михаил",
+      "patronymic": "Дмитриевич",
+      "phone_number": "+8 (800) 555-35-55",
+      "email": "sur@gmail.com",
+      "birthdate": "1988-03-12",
+      "workplace": 0,
+      "id": 5
+    },
+    {
+      "name": "Суровицкий",
+      "surname": "Михаил",
+      "patronymic": "Дмитриевич",
+      "phone_number": "+8 (800) 555-35-55",
+      "email": "sur@gmail.com",
+      "birthdate": "1988-03-12",
+      "workplace": 0,
+      "id": 6
+    },
+    {
+      "name": "Суровицкий",
+      "surname": "Михаил",
+      "patronymic": "Дмитриевич",
+      "phone_number": "+8 (800) 555-35-55",
+      "email": "sur@gmail.com",
+      "birthdate": "1988-03-12",
+      "workplace": 0,
+      "id": 7
+    },
+    {
+      "name": "Суровицкий",
+      "surname": "Михаил",
+      "patronymic": "Дмитриевич",
+      "phone_number": "+8 (800) 555-35-55",
+      "email": "sur@gmail.com",
+      "birthdate": "1988-03-12",
+      "workplace": 0,
+      "id": 8
+    },
+  ]
+}
